@@ -1,1 +1,18 @@
-{}
+{
+  "2023-12-15 11:42:36.007207": {
+    "username": "Master",
+    "message": "It`s time to go."
+  },
+  "2023-12-15 11:42:59.553745": {
+    "username": "Trinity",
+    "message": "And it`s go out..."
+  },
+  "2023-12-15 11:47:23.079841": {
+    "username": "Test  of socket",
+    "message": "so good"
+  },
+  "2023-12-15 11:48:34.471873": {
+    "username": "Test of socket 2",
+    "message": "much better..."
+  }
+}
