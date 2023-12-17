@@ -89,7 +89,7 @@ def run():
         logging.debug('Starting servers...')
         server_socket = Thread(target=socket_server)
         server_socket.start()
-        server_http = Thread(target=app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 4000))))
+        server_http = Thread(target=app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 3000))))
         server_http.start()
     
         logging.debug('Servers sucessfully started.')
